@@ -11693,7 +11693,7 @@ img {
 .page-title:before {
 	position: absolute;
 	content: '';
-	background: rgba(29, 23, 71, 0.9);
+	background: rgba(29, 23, 71, 0.4);
 	left: 0;
 	top: 0;
 	width: 100%;
@@ -11951,6 +11951,12 @@ img {
 	position: relative;
 	padding: 110px 0 90px;
 	background: #f4f1ee;
+}
+
+.whychoose-us-section1 {
+	position: relative;
+	padding: 110px 0 90px;
+	background: #F0F8FF;
 }
 
 .whychoose-us-block {
@@ -12526,10 +12532,10 @@ img {
 	content: '';
 	height: 140px;
 	width: 140px;
-	top: -20px;
+	top: 100px;
 	left: -20px;
 	border-radius: 50%;
-	background: rgba(255, 255, 255, 0.2);
+	/* background: rgba(255, 255, 255, 0.2); */
 }
 
 .default-video-box:after {
